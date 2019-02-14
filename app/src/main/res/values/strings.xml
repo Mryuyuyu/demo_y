@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">demo_y</string>
+
+    <string-array name="indicator_array">
+        <item>表格</item>
+        <item>图像</item>
+        <item>柱状图</item>
+    </string-array>
 </resources>
