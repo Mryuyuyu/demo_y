@@ -6,8 +6,12 @@ import android.view.ViewGroup;
 
 import com.example.mryu.demo_y.R;
 import com.example.mryu.demo_y.base.BaseFragment;
+import com.example.mryu.demo_y.bean.DataBean;
+import com.example.mryu.demo_y.interfaces.IR1ViewCallBack;
+import com.example.mryu.demo_y.presenters.R1Presenter;
+import com.github.mikephil.charting.charts.LineChart;
 
-public class R1ImageFragment extends BaseFragment {
+public class R1ImageFragment extends BaseFragment implements IR1ViewCallBack {
     private View mRootView;
 
     @Override
@@ -17,7 +21,18 @@ public class R1ImageFragment extends BaseFragment {
         return mRootView;
     }
 
+
     private void initView() {
+        LineChart chart = mRootView.findViewById(R.id.chart);
+    }
+
+    @Override
+    public void onSuccess(DataBean data) {
+
+    }
+
+    @Override
+    public void onFail() {
 
     }
 }
