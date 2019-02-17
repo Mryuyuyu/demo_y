@@ -6,9 +6,9 @@ public interface IR1Presenter {
 
     /**
      * 加载数据
-     * @param dataBean
+     *
      */
-    void loadData(DataBean dataBean);
+    void loadData();
 
     /**
      * 注册回调

@@ -4,11 +4,11 @@ public class DataBean {
     private int id;
     private String Data;
     private int Gangjuan;
-    private float M1_up;
-    private float M1_down;
+    private float M1_up = 0;
+    private float M1_down = 0;
     private float F1_up;
     private float F1_down;
-    private float pressure;
+    private float pressure = 0;
 
     public int getId() {
         return id;
