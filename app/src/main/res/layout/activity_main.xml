@@ -22,21 +22,21 @@
             android:layout_height="30dp"
             android:layout_weight="1"
             android:background="@drawable/shape_rectangle"
-            android:text="2" />
+            android:text="M上/tn" />
 
         <TextView
             android:layout_width="100px"
             android:layout_height="30dp"
             android:layout_weight="1"
             android:background="@drawable/shape_rectangle"
-            android:text="3" />
+            android:text="M下/tn" />
 
         <TextView
             android:layout_width="100px"
             android:layout_height="30dp"
             android:layout_weight="1"
             android:background="@drawable/shape_rectangle"
-            android:text="4" />
+            android:text="P/T" />
     </LinearLayout>
 
     //第1道次
@@ -48,12 +48,13 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
         <TextView
             android:layout_width="100px"
             android:layout_height="60dp"
             android:layout_weight="1"
             android:background="@drawable/shape_rectangle"
-            android:text="1" />
+            android:text="第一道次" />
 
 
     </LinearLayout>
@@ -62,18 +63,20 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
         <TextView
             android:layout_width="100px"
             android:layout_height="30dp"
             android:layout_weight="1"
             android:background="@drawable/shape_rectangle"
-            android:text="1" />
+            android:text="最大值" />
+
         <TextView
             android:layout_width="100px"
             android:layout_height="30dp"
             android:layout_weight="1"
             android:background="@drawable/shape_rectangle"
-            android:text="1" />
+            android:text="平均值" />
 
 
     </LinearLayout>
@@ -150,12 +153,13 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent">
+
             <TextView
                 android:layout_width="100px"
                 android:layout_height="60dp"
                 android:layout_weight="1"
                 android:background="@drawable/shape_rectangle"
-                android:text="1" />
+                android:text="第二道次" />
 
 
         </LinearLayout>
@@ -164,18 +168,20 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
+
             <TextView
                 android:layout_width="100px"
                 android:layout_height="30dp"
                 android:layout_weight="1"
                 android:background="@drawable/shape_rectangle"
-                android:text="1" />
+                android:text="最大值" />
+
             <TextView
                 android:layout_width="100px"
                 android:layout_height="30dp"
                 android:layout_weight="1"
                 android:background="@drawable/shape_rectangle"
-                android:text="1" />
+                android:text="平均值" />
 
 
         </LinearLayout>
@@ -252,12 +258,13 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent">
+
             <TextView
                 android:layout_width="100px"
                 android:layout_height="60dp"
                 android:layout_weight="1"
                 android:background="@drawable/shape_rectangle"
-                android:text="1" />
+                android:text="第一道次" />
 
 
         </LinearLayout>
@@ -266,18 +273,20 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
+
             <TextView
                 android:layout_width="100px"
                 android:layout_height="30dp"
                 android:layout_weight="1"
                 android:background="@drawable/shape_rectangle"
-                android:text="1" />
+                android:text="最大值" />
+
             <TextView
                 android:layout_width="100px"
                 android:layout_height="30dp"
                 android:layout_weight="1"
                 android:background="@drawable/shape_rectangle"
-                android:text="1" />
+                android:text="平均值" />
 
 
         </LinearLayout>
@@ -354,12 +363,13 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent">
+
             <TextView
                 android:layout_width="100px"
                 android:layout_height="60dp"
                 android:layout_weight="1"
                 android:background="@drawable/shape_rectangle"
-                android:text="1" />
+                android:text="第一道次" />
 
 
         </LinearLayout>
@@ -368,18 +378,20 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
+
             <TextView
                 android:layout_width="100px"
                 android:layout_height="30dp"
                 android:layout_weight="1"
                 android:background="@drawable/shape_rectangle"
-                android:text="1" />
+                android:text="最大值" />
+
             <TextView
                 android:layout_width="100px"
                 android:layout_height="30dp"
                 android:layout_weight="1"
                 android:background="@drawable/shape_rectangle"
-                android:text="1" />
+                android:text="平均值" />
 
 
         </LinearLayout>
@@ -456,12 +468,13 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent">
+
             <TextView
                 android:layout_width="100px"
                 android:layout_height="60dp"
                 android:layout_weight="1"
                 android:background="@drawable/shape_rectangle"
-                android:text="1" />
+                android:text="第一道次" />
 
 
         </LinearLayout>
@@ -470,18 +483,20 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
+
             <TextView
                 android:layout_width="100px"
                 android:layout_height="30dp"
                 android:layout_weight="1"
                 android:background="@drawable/shape_rectangle"
-                android:text="1" />
+                android:text="最大值" />
+
             <TextView
                 android:layout_width="100px"
                 android:layout_height="30dp"
                 android:layout_weight="1"
                 android:background="@drawable/shape_rectangle"
-                android:text="1" />
+                android:text="平均值" />
 
 
         </LinearLayout>
@@ -558,12 +573,13 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent">
+
             <TextView
                 android:layout_width="100px"
                 android:layout_height="60dp"
                 android:layout_weight="1"
                 android:background="@drawable/shape_rectangle"
-                android:text="1" />
+                android:text="第一道次" />
 
 
         </LinearLayout>
@@ -572,18 +588,20 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
+
             <TextView
                 android:layout_width="100px"
                 android:layout_height="30dp"
                 android:layout_weight="1"
                 android:background="@drawable/shape_rectangle"
-                android:text="1" />
+                android:text="最大值" />
+
             <TextView
                 android:layout_width="100px"
                 android:layout_height="30dp"
                 android:layout_weight="1"
                 android:background="@drawable/shape_rectangle"
-                android:text="1" />
+                android:text="平均值" />
 
 
         </LinearLayout>
