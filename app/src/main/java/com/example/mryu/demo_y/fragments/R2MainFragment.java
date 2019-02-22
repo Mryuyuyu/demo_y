@@ -51,6 +51,8 @@ public class R2MainFragment extends BaseFragment {
         magicIndicator.setNavigator(commonNavigator);
         //把 ViewPager 和 indicator  绑定, viewPager滑动, indicator也跟着滑动
         ViewPagerHelper.bind(magicIndicator, mViewPager);
+
+        mViewPager.setCurrentItem(1);
     }
 
     @Override
