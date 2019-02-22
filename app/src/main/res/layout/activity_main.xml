@@ -54,7 +54,7 @@
             android:layout_height="60dp"
             android:layout_weight="1"
             android:background="@drawable/shape_rectangle"
-            android:text="第一道次" />
+            android:text="第一   道次" />
 
 
     </LinearLayout>
